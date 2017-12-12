@@ -1,2 +1,3 @@
 # Udacity-Intro-to-ML
-My course work on Intro to ML by Udacity
+My coursework on the Intro to ML course on Udacity
+Please look through the project folder to see the problems solved
